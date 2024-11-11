@@ -4,7 +4,7 @@ Entrada
 Uma String
 
 Saída
-Imprimir o dia do mês, conforme exemplo da tabela. */
+Imprimir o dia do mês, conforme exemplo da tabela.
 import java.util.Scanner;
 
 public class Main
@@ -22,4 +22,20 @@ public class Main
 	    
 	    scanner.close();
 	}
+} */
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        
+        Scanner scanner = new Scanner(System.in);
+        
+        String data = scanner.nextLine();
+        
+        String d = data.substring(0, 2);
+        
+        System.out.println("Estamos no dia " + d + " do mês.");
+        
+        scanner.close();
+    }
 }
