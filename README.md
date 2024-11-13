@@ -1,4 +1,4 @@
-# Algoritmos e Programacao
+# Algoritmos e Programacao IFTM
 Este repositório é divido em:
 
 - atividades do Beecrowd;
