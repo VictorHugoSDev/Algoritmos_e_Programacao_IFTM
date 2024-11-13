@@ -1,4 +1,4 @@
-# Algoritmos_e_Programacao
+# Algoritmos e Programacao
 Este repositório é divido em:
 
 - atividades do Beecrowd;
